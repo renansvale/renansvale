@@ -3,7 +3,7 @@
 - i'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-brazil_1f1e7-1f1f7.png" width="17" height="17">, and live in São Paulo🌇
 - I’m a programming student :computer:
 - I’m currently participanting in BootCamp Santander FullStack Developer :brain:
-- **Future Front End Developer**👊
+- **Future Full Stack Developer**👊
 
 ## My Skills Front End
 
